@@ -82,7 +82,8 @@ MLOps stands at the intersection of machine learning, DevOps, and data engineeri
 - [Airflow](https://airflow.apache.org/) – Workflow orchestration for ETL and ML pipelines.
 - [Dagster](https://dagster.io/) – Build and monitor data applications and ML systems.
 - [Metaflow](https://metaflow.org/) – Human-centric workflow tool for ML.
-
+- [Valohai] (https://valohai.com/) - MLOps platform for reproducible ML and LLM workflows from experimentation to production, with execution lineage, auditability, and hybrid deployment support.
+  
 ## Courses & Learning
 
 - [Coursera – MLOps Specialization by DeepLearning.AI](https://www.coursera.org/specializations/mlops) – Learn to build, deploy, and monitor ML systems at scale.
