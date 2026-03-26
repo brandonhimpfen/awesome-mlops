@@ -52,6 +52,7 @@ MLOps stands at the intersection of machine learning, DevOps, and data engineeri
 - [WhyLabs](https://whylabs.ai/) – Observability for ML models and data.
 - [Arize AI](https://arize.com/) – ML performance and drift monitoring platform.
 - [Fiddler AI](https://www.fiddler.ai/) – Explainable AI and monitoring for production ML models.
+- [Weco Observe](https://weco.ai) – AI-powered observability platform for monitoring and improving ML model performance in production.
 
 ## Model Governance & Fairness
 
@@ -83,6 +84,7 @@ MLOps stands at the intersection of machine learning, DevOps, and data engineeri
 - [Dagster](https://dagster.io/) – Build and monitor data applications and ML systems.
 - [Metaflow](https://metaflow.org/) – Human-centric workflow tool for ML.
 - [Valohai](https://valohai.com/) – MLOps platform for managing reproducible machine learning workflows from experimentation to production, with support for pipeline orchestration, tracking, and deployment.
+- [AIDE](https://github.com/WecoAI/aideml) – AI-driven automated machine learning agent that uses tree search to iteratively improve code and models for ML tasks.
   
 ## Courses & Learning
 
