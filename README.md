@@ -37,6 +37,7 @@ MLOps stands at the intersection of machine learning, DevOps, and data engineeri
 - [Neptune.ai](https://neptune.ai/) – Metadata store for ML experiments.
 - [Comet](https://www.comet.com/) – Experiment tracking, model optimization, and monitoring.
 - [Sacred](https://github.com/IDSIA/sacred) – Lightweight experiment configuration and tracking tool.
+- [AIDE](https://github.com/WecoAI/aideml) – Open-source AI agent that automates ML experiments using tree search over code generation and evaluation.
 
 ## Model Deployment
 
