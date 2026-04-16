@@ -49,6 +49,9 @@ MLOps stands at the intersection of machine learning, DevOps, and data engineeri
 
 ## Model Monitoring
 
+- [FutureAGI traceAI](https://github.com/future-agi/traceAI)
+- [FutureAGI ai-evaluation](https://github.com/future-agi/ai-evaluation)
+
 - [Evidently](https://github.com/evidentlyai/evidently) – Monitor data drift, model performance, and fairness.
 - [WhyLabs](https://whylabs.ai/) – Observability for ML models and data.
 - [Arize AI](https://arize.com/) – ML performance and drift monitoring platform.
