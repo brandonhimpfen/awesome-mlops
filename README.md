@@ -1,4 +1,4 @@
-# Awesome MLOps [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome MLOps [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -94,9 +94,9 @@ MLOps stands at the intersection of machine learning, DevOps, and data engineeri
 
 ## Related Awesome Lists
 
-- **[Awesome LLMOps](https://github.com/awesomelistsio/awesome-llmops)** – Resources focused on managing large language models in production.
-- **[Awesome Prompt Engineering](https://github.com/awesomelistsio/awesome-prompt-engineering)** – Techniques and tools for prompt design.
-- **[Awesome AI Infrastructure](https://github.com/awesomelistsio/awesome-ai-infrastructure)** – Tools for managing AI pipelines and infra.
+- **[Awesome LLMOps](https://github.com/brandonhimpfen/awesome-llmops)** – Resources focused on managing large language models in production.
+- **[Awesome Prompt Engineering](https://github.com/brandonhimpfen/awesome-prompt-engineering)** – Techniques and tools for prompt design.
+- **[Awesome AI Infrastructure](https://github.com/brandonhimpfen/awesome-ai-infrastructure)** – Tools for managing AI pipelines and infra.
 
 ## Contribute
 
