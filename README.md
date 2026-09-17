@@ -68,6 +68,7 @@ MLOps stands at the intersection of machine learning, DevOps, and data engineeri
 - [LakeFS](https://lakefs.io/) – Git-like operations for data lakes.
 - [Delta Lake](https://delta.io/) – Reliable data lakes with ACID transactions and time travel.
 - [Pachyderm](https://www.pachyderm.com/) – Data versioning and lineage for ML pipelines.
+- [Pixeltable](https://github.com/pixeltable/pixeltable) – Declarative multimodal AI data engine and feature store with computed columns, automated versioning, and vector search.
 - [Feast](https://feast.dev/) – Feature store for production ML.
 
 ## CI/CD for ML
